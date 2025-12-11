@@ -15,22 +15,6 @@ A collection of LeetCode problem solutions organized for practice and reference.
 ## About
 This repository contains solutions to algorithmic problems (e.g., LeetCode). Solutions may be implemented in different languages. Each solution should include the problem number/title, approach, and runtime/space notes.
 
-## Organization & naming convention
-Use a consistent folder/file naming strategy, for example:
-- /[language]/[problem-number]_[short-title].[ext]
-  - e.g., python/0001_two_sum.py
-  - e.g., cpp/0001_two_sum.cpp
-
-Alternatively, group by difficulty:
-- /easy/
-- /medium/
-- /hard/
-
-Include a small comment header at the top of each file:
-- Problem title & number
-- Brief approach explanation
-- Complexity analysis (time/space)
-
 ## Languages / runtimes
 Common languages:
 - Python (run with `python file.py`)
